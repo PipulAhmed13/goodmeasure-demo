@@ -1,0 +1,90 @@
+.head {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	background-image: url(https://static1.squarespace.com/static/56566fb8e4b08c62b9c860f0/t/56c1543c746fb9469a5b1ff8/1455510588913/bg.jpg?format=1500w);
+	background-size: cover;
+	color: white;
+}
+
+p button {
+	margin-top: 30px;
+}
+
+p button a {
+	color: #f9f9f9;
+    text-decoration: none;
+}
+
+.head2 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-bottom: 1px solid;
+}
+
+.head2 button {
+	color: black;
+
+}
+
+.head2 img {
+	height: 200px;
+}
+
+.head3 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-bottom: 1px solid;
+}
+
+.sec3 {
+}
+
+.gray-text {
+	color: gray;
+}
+.sec3-content {
+	padding-top: 130px;
+}
+
+.head3 img {
+	    width: 100%;
+}
+
+.head4 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-bottom: 1px solid; 
+}
+.sec4 {
+}
+.sec4-content {
+	padding-top: 130px;
+}
+
+.head4 img {
+	    width: 100%;
+}
+
+.head5 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-bottom: 1px solid; 
+
+}
+
+.section-5 {
+
+}
+
+.head6 {
+
+	
+
+}
+
+.section-6 {
+	padding-top: 30px;
+	padding-bottom: 50px;
+
+
+}
